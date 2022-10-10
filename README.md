@@ -12,6 +12,7 @@
 - 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **vikkigupta081@gmail.com**
+[![@vikki's Holopin board](https://holopin.io/api/user/board?user=vikki)](https://holopin.io/@vikki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
