@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikkigupta87" target="blank"><img src="https://img.shields.io/twitter/follow/vikkigupta87?logo=twitter&style=for-the-badge" alt="vikkigupta87" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Software Engineer**
 
 - 💬 Ask me about **Cybersecurity**
 
